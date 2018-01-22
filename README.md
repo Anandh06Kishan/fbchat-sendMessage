@@ -9,9 +9,9 @@ Send messages either as image or text to friends on facebook by using python scr
 pip install fbchat
 ```
 ### Getting username:
-</t> * We must get the username from url of our profile.
+ We must get the username from url of our profile.
 ![url](https://user-images.githubusercontent.com/26201632/35196492-b9ba1d92-fef8-11e7-92c0-e361451d1c91.png)
-<br> * Then enter your password to log in.
+ Then enter your password to log in.
 
 ### Screenshots:
 Sending text:
